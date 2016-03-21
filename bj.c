@@ -2,7 +2,7 @@
 #define MAXLINE 1000
 int get(char line[],int maxline);
 void copy(char to[],char from[]);
-main()
+int main()
 {
 int len;
 int max;
